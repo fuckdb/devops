@@ -3,3 +3,5 @@ this is the first change
 release1 !
 
 merging with cli
+
+adding changes with cli
